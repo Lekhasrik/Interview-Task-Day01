@@ -1,0 +1,290 @@
+DAY 1 
+===========================================
+
+BLOCK 1 – APTITUDE (Percentages)
+
+Question 1
+A number increased by 20% becomes 120.
+Find the original number.
+
+sol: 
+x + 20% = 120
+
+20% of x = 20/100 * x
+1/5 x
+
+x+1/5 x = 120
+5x + 1x / 5 = 120
+6x/5 = 120
+6x=600
+x=600/6
+x=100
+
+Question 2
+If the price of a laptop increases from ₹50,000 to ₹60,000,
+what is the percentage increase?
+
+sol:
+50000 - 60000 = 10000
+10000 / 50000 = 1/5 = 0.2
+0.2 * 100 = 20%
+
+Question 3
+A student scored 72 out of 90 in an exam.
+Find the percentage score.
+
+sol:
+72/90 * 100 = 80%
+
+Question 4
+The population of a town increases from 50,000 to 60,000.
+Find the percentage increase.
+
+sol:
+50000 - 60000 = 10000
+= 10000 / 50000 = 0.2
+=20%
+
+Question 5
+A shirt originally costs ₹800.
+After a 25% discount, what is the final price?
+
+sol:
+25/100 * 800 = 200
+=800 - 200
+=600
+
+===========================================
+BLOCK 2 – VERBAL ABILITY
+
+Reading Passage
+
+Technology is transforming industries rapidly. Artificial Intelligence,
+Machine Learning, and Automation are reshaping the way companies operate.
+Businesses now depend heavily on data-driven decision making.
+
+Questions
+
+1. What is the main idea of the passage?
+   sol: Technology is rapidly changing industries and how companies work.
+2. Which technologies are mentioned in the passage?
+   sol: Artificial Intelligence (AI) , Machine Learning (ML) , Automation
+3. Why are companies relying on data-driven decisions?
+   sol: It helps in better decision making
+
+Grammar Correction
+
+1. She don't understand the problem.
+   sol: She doesn't understand the problem.
+   res: she is singular
+2. He have completed the task.
+   sol: He has completed the task.
+   res: he is singular
+3. They was going to the meeting.
+   sol: They were going to the meeting.
+   res: they plural
+
+===========================================
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 2 minutes on:
+
+    I am lekha sri from Salem,
+    I am pursuing 3rd year of IT at Muthayammal Engineering College,Rasipuram.
+    I have skills in Java, Springboot, JavaScript, and the MERN stack.
+    I have worked on projects like Stocx, PulseCare, Adminova and Tune Flow.
+    My goal is to become a software engineer in a product-based company.
+
+===========================================
+BLOCK 4 – PROBLEM SOLVING
+
+Find the missing number in the array
+
+[1,2,3,4,6,7,8]
+
+Expected Output
+5
+
+Hint
+
+Use the formula:
+
+Sum = n*(n+1)/2
+
+sol:
+
+//method -1 
+
+import java.util.*;
+public class Main
+{
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		int n=sc.nextInt();
+		int []arr=new int[n];
+		int sum=0;
+		int dif=0;
+		for(int i=0;i<n;i++){
+		    arr[i]=sc.nextInt();
+		    sum+=arr[i];
+		    dif+=(i+1);
+		}
+		
+		System.out.println(sum-dif);
+	}
+}
+
+
+//method-2
+
+import java.util.*;
+public class Main{
+    public static void main(String[] args){
+        Scanner sc=new Scanner(System.in);
+		int n=sc.nextInt();
+		int ori=n*(n+1)/2;
+		int sum=0;
+		int []arr=new int[n];
+		for(int i=0;i<n;i++){
+		    arr[i]=sc.nextInt();
+		    sum+=arr[i];
+		}
+		System.out.println(sum-ori);
+    }
+}
+
+===========================================
+BLOCK 5 – DATA STRUCTURES & ALGORITHMS
+
+Topic: Arrays
+
+Problem 1 – Two Sum
+
+Given an array of integers and a target value,
+return the indices of two numbers whose sum equals the target.
+
+Example
+
+nums = [2,7,11,15]
+target = 9
+
+Output
+[0,1]
+
+
+Python Solution
+
+def twoSum(nums,target):
+
+    hashmap = {}
+
+    for i,num in enumerate(nums):
+
+        diff = target - num
+
+        if diff in hashmap:
+            return [hashmap[diff],i]
+
+        hashmap[num] = i
+
+Time Complexity
+
+O(n)
+
+
+sol:
+
+//method-1-brute force
+
+import java.util.*;
+public class Main{
+    public static void main(String[] args){
+        Scanner sc=new Scanner(System.in);
+        int n=sc.nextInt();
+        int []arr=new int[n];
+        for(int i=0;i<n;i++){
+            arr[i]=sc.nextInt();
+        }
+        int target=sc.nextInt();
+        for(int i=0;i<n;i++){
+            for(int j=i+1;j<n;j++){
+                if(arr[i]+arr[j]==target){
+                    System.out.println(i+" "+j);
+                    return;
+                }
+            }
+        }
+    }
+}
+
+
+//method-2
+import java.util.*;
+public class Main{
+    public static void main(String[] args){
+        Scanner sc=new Scanner(System.in);
+        int n=sc.nextInt();
+        int []arr=new int[n];
+        for(int i=0;i<n;i++){
+            arr[i]=sc.nextInt();
+        }
+        int target=sc.nextInt();
+        int left=0;
+        int rigth=n-1;
+        while(left<rigth){
+            int sum=arr[left]+arr[rigth];
+            if(sum==target){
+                System.out.println(left+" "+rigth);
+                return;
+            }
+            else if(sum>target)
+               rigth--;
+            else
+               left++;
+        }
+    }
+}
+
+
+Practice Problem
+
+Find the maximum element in the array
+
+[3,8,1,10,4]
+
+sol:
+
+//method-1-brute force
+
+import java.util.*;
+public class Main{
+    public static void main(String[] args){
+        Scanner sc=new Scanner(System.in);
+        int n=sc.nextInt();
+        int []arr=new int[n];
+        for(int i=0;i<n;i++){
+            arr[i]=sc.nextInt();
+        }
+        int max=arr[0];
+        for(int i=1;i<n;i++){
+            if(max<arr[i])
+              max=arr[i];
+        }
+        System.out.println(max);
+    }
+}
+
+//method-2
+
+import java.util.*;
+public class Main{
+    public static void main(String[] args){
+        Scanner sc=new Scanner(System.in);
+        int n=sc.nextInt();
+        ArrayList<Integer> arr=new ArrayList<>();
+        for(int i=0;i<n;i++){
+            arr.add(sc.nextInt());
+        }
+        System.out.println(Collections.max(arr));
+    }
+}
