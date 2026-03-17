@@ -1,0 +1,34 @@
+
+BLOCK 2 – VERBAL ABILITY
+
+Reading Passage
+
+Software development is evolving rapidly with the rise of cloud computing and
+artificial intelligence. Companies are now building scalable systems that can
+handle millions of users simultaneously.
+
+Questions
+
+1. What technologies are influencing software development?
+ans:  cloud computing and artificial intelligence
+
+2. Why are scalable systems important?
+ans: it is important for handle millions of users simultaneously.
+
+3. What does "scalable" mean in software systems?
+ans: It handles increasing numbers of users and load without affecting perfomence.
+
+Grammar Correction
+
+1. He don't like programming.
+ans: he doesn't like programming
+res: he is third - person singular
+
+2. She have submitted the assignment.
+ans: she has submitted the assignment.
+res: she is third person singular.
+
+3. They was discussing the project.
+ans: They were discussing the project.
+res: they is plural.
+

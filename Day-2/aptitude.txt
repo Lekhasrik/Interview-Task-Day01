@@ -1,0 +1,87 @@
+DAY 2 – FULL TRAINING PLAN
+===========================================
+
+BLOCK 1 – APTITUDE (Profit & Loss)
+
+Question 1
+A shopkeeper buys a book for ₹400 and sells it for ₹480.
+Find the profit percentage.\
+
+sol:
+
+cp = 400
+sp = 480
+profit = sp - cp
+       = 480 - 400
+       = 80
+profit % = (profit / cp) * 100
+         = (80 / 400) * 100
+         = 20%
+
+Question 2
+A man buys a watch for ₹1500 and sells it for ₹1200.
+Find the loss percentage.
+
+sol:
+
+cp = 1500
+sp = 1200
+
+loss = cp - sp
+     = 1500 - 1200
+loss = 300
+loss% = (loss / cp ) * 100
+      = 300 / 1500 * 100
+ loss%=20%
+
+Question 3
+A trader marks a product 20% above the cost price and gives a 10% discount.
+Find the final profit percentage.
+
+sol:
+
+let cp=100
+20% above
+Marked = cp+20% of cp
+       = 100+ (20/100) *100
+Marked = 120
+10% discount
+
+dis=10% of Marked
+   = 10/100 * 120
+dis=12
+selling = Marked - dis
+        = 120 - 12
+selling = 108
+
+profit% = 108 -100 / 100 *100
+profit% = 8%
+
+Question 4
+If the cost price of 5 pens is ₹100, what is the selling price of each pen to make 25% profit?
+
+sol:
+
+5pen = 100
+1 pen = 100/5 = 20
+
+25% profit per pen = 25/100 * 20
+                   = 5
+
+sp = 20 + 5
+sp = 25
+
+Question 5
+A product is sold for ₹900 with a 10% loss.
+Find the cost price.
+
+sol:
+ 
+sp=900
+10% loss
+
+cp= sp * 100 / 100-loss%
+  = 900 * 100 / 100 - 10
+  = 900 * 100 / 90
+cp=1000
+

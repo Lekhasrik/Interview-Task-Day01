@@ -1,0 +1,24 @@
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 2–3 minutes on:
+
+Explain Your Final Year Project
+
+
+Hi all,
+My project title is stocx - product Inventory Management System.
+
+     My problem statement is that many small businesses and shops struggle to manage their inventory manually.
+This leads to issues like stock mismanagement, incorrect billing, and difficulty in tracking sales.
+So, we developed a system to efficiently manage products, categories, and sales in a digital way.
+
+     I used react for frontend, Node js and Express js for backend and MongoDB for database 
+and I styled My web app using Tailwind CSS
+
+     I worked as a Full Stack DeveloperI developed the frontend using React and designed responsive UI using Tailwind CSS.
+I built REST APIs using Node.js and Express.js, and handled database operations using MongoDB.I also implemented features 
+like product management, category management, and billing system.
+
+    One of the major challenges I faced was handling real-time stock updates during billing.I solved this by ensuring proper
+backend logic and database updates.
+
