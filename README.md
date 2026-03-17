@@ -280,3 +280,220 @@ Rules
 
 ===========================================
 END OF DAY 1 – QUANTUMNIQUE PLACEMENT ENGINE
+
+
+
+QUANTUMNIQUE PLACEMENT ENGINE
+DAY 2 – FULL TRAINING PLAN
+===========================================
+
+BLOCK 1 – APTITUDE (Profit & Loss)
+
+Question 1
+A shopkeeper buys a book for ₹400 and sells it for ₹480.
+Find the profit percentage.
+
+Question 2
+A man buys a watch for ₹1500 and sells it for ₹1200.
+Find the loss percentage.
+
+Question 3
+A trader marks a product 20% above the cost price and gives a 10% discount.
+Find the final profit percentage.
+
+Question 4
+If the cost price of 5 pens is ₹100, what is the selling price of each pen to make 25% profit?
+
+Question 5
+A product is sold for ₹900 with a 10% loss.
+Find the cost price.
+
+===========================================
+BLOCK 2 – VERBAL ABILITY
+
+Reading Passage
+
+Software development is evolving rapidly with the rise of cloud computing and
+artificial intelligence. Companies are now building scalable systems that can
+handle millions of users simultaneously.
+
+Questions
+
+1. What technologies are influencing software development?
+2. Why are scalable systems important?
+3. What does "scalable" mean in software systems?
+
+Grammar Correction
+
+1. He don't like programming.
+2. She have submitted the assignment.
+3. They was discussing the project.
+
+===========================================
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 2–3 minutes on:
+
+Explain Your Final Year Project
+
+Include:
+- Project title
+- Problem statement
+- Technologies used
+- Your role in the project
+- Challenges faced
+
+===========================================
+BLOCK 4 – PROBLEM SOLVING
+
+Reverse a Number
+
+Input
+1234
+
+Output
+4321
+
+Hint
+
+Use:
+remainder = n % 10
+n = n // 10
+
+===========================================
+BLOCK 5 – DATA STRUCTURES & ALGORITHMS
+
+Topic: Arrays
+
+Problem – Maximum Subarray (Kadane's Algorithm)
+
+Given array:
+
+[-2,1,-3,4,-1,2,1,-5,4]
+
+Find the maximum sum of a contiguous subarray.
+
+Expected Output
+6
+
+Subarray
+[4,-1,2,1]
+
+Python Solution
+
+def maxSubArray(nums):
+
+    current = nums[0]
+    maximum = nums[0]
+
+    for i in range(1,len(nums)):
+        current = max(nums[i], current + nums[i])
+        maximum = max(maximum, current)
+
+    return maximum
+
+Time Complexity
+O(n)
+
+Practice Problem
+
+Find the second largest number in the array
+
+[5,8,2,10,7]
+
+===========================================
+BLOCK 6 – CORE CS CONCEPTS
+
+DBMS CONCEPT – FOREIGN KEY
+
+A Foreign Key is a column in one table that refers to the Primary Key
+of another table. It creates a relationship between tables.
+
+Example
+
+Student Table
+
+StudentID | Name
+1         | Rahul
+2         | Priya
+
+Enrollment Table
+
+StudentID | Course
+1         | Java
+2         | Python
+
+Here StudentID in Enrollment is a Foreign Key.
+
+===========================================
+OPERATING SYSTEMS CONCEPT – CPU SCHEDULING
+
+CPU Scheduling determines which process gets CPU time.
+
+Common algorithms:
+- FCFS (First Come First Serve)
+- SJF (Shortest Job First)
+- Round Robin
+- Priority Scheduling
+
+Example
+
+Process | Burst Time
+P1      | 5
+P2      | 3
+P3      | 2
+
+===========================================
+NETWORKING CONCEPT – OSI MODEL
+
+The OSI Model has 7 layers.
+
+1. Physical
+2. Data Link
+3. Network
+4. Transport
+5. Session
+6. Presentation
+7. Application
+
+When you access a website, data travels through these layers.
+
+===========================================
+CORE COMPUTER SCIENCE CONCEPT – RECURSION
+
+Recursion occurs when a function calls itself.
+
+Example
+
+def factorial(n):
+
+    if n == 0:
+        return 1
+
+    return n * factorial(n-1)
+
+Example
+
+factorial(5)
+
+Output
+120
+
+===========================================
+INTERVIEW QUESTION OF THE DAY
+
+What is the difference between Primary Key and Foreign Key?
+
+Primary Key
+- Uniquely identifies each row
+- Cannot be NULL
+- One per table
+
+Foreign Key
+- References primary key in another table
+- Can have duplicates
+- Multiple allowed
+
+===========================================
+END OF DAY 2 – QUANTUMNIQUE PLACEMENT ENGINE
+
