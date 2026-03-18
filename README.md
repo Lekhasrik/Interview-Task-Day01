@@ -497,3 +497,153 @@ Foreign Key
 ===========================================
 END OF DAY 2 – QUANTUMNIQUE PLACEMENT ENGINE
 
+
+
+
+QUANTUMNIQUE PLACEMENT ENGINE
+DAY 3 – FULL TRAINING PLAN
+===========================================
+
+BLOCK 1 – APTITUDE (Ratio & Proportion)
+
+Question 1
+If the ratio of A:B is 3:5 and B:C is 2:3, find A:C.
+
+Question 2
+Divide ₹1000 in the ratio 2:3:5.
+
+Question 3
+If 4 pens cost ₹40, what is the cost of 10 pens?
+
+Question 4
+The ratio of boys to girls in a class is 3:2. If total students = 50, find number of girls.
+
+Question 5
+If A:B = 4:7 and B = 21, find A.
+
+===========================================
+BLOCK 2 – VERBAL ABILITY
+
+Reading Passage
+
+Data structures are essential for efficient problem solving. Choosing the
+right data structure can significantly improve performance.
+
+Questions
+
+1. Why are data structures important?
+2. What happens if we choose the wrong data structure?
+3. What does performance mean in programming?
+
+Grammar Correction
+
+1. He go to college daily.
+2. She don’t likes coding.
+3. We was solving problems.
+
+===========================================
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 2–3 minutes on:
+
+Your Strengths and Weaknesses
+
+Include:
+- 2 strengths
+- 1 weakness
+- How you are improving
+
+===========================================
+BLOCK 4 – PROBLEM SOLVING
+
+Check if a number is palindrome.
+
+Example
+
+Input: 121
+Output: True
+
+Input: 123
+Output: False
+
+===========================================
+BLOCK 5 – DATA STRUCTURES & ALGORITHMS
+
+Topic: Strings
+
+Problem – Valid Palindrome
+
+Given a string, check if it is a palindrome ignoring spaces and cases.
+
+Example
+
+"A man a plan a canal Panama"
+
+Output
+True
+
+Python Solution
+
+def isPalindrome(s):
+    s = s.lower().replace(" ", "")
+    return s == s[::-1]
+
+Time Complexity
+O(n)
+
+Practice Problem
+
+Reverse a string
+
+===========================================
+BLOCK 6 – CORE CS CONCEPTS
+
+DBMS CONCEPT – NORMALIZATION
+
+Normalization is the process of organizing data to reduce redundancy.
+
+Types:
+- 1NF
+- 2NF
+- 3NF
+
+===========================================
+OPERATING SYSTEMS CONCEPT – DEADLOCK
+
+Deadlock occurs when processes are waiting for each other indefinitely.
+
+Conditions:
+- Mutual Exclusion
+- Hold and Wait
+- No Preemption
+- Circular Wait
+
+===========================================
+NETWORKING CONCEPT – IP ADDRESS
+
+IP Address uniquely identifies a device on a network.
+
+Types:
+- IPv4
+- IPv6
+
+===========================================
+CORE COMPUTER SCIENCE CONCEPT – SPACE COMPLEXITY
+
+Space complexity measures memory usage of an algorithm.
+
+Example:
+Using extra array → O(n)
+No extra space → O(1)
+
+===========================================
+INTERVIEW QUESTION OF THE DAY
+
+What is normalization in DBMS?
+
+Answer:
+It is the process of structuring database tables to reduce redundancy and improve data integrity.
+
+===========================================
+END OF DAY 3 – QUANTUMNIQUE PLACEMENT ENGINE
+
