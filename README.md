@@ -647,3 +647,165 @@ It is the process of structuring database tables to reduce redundancy and improv
 ===========================================
 END OF DAY 3 – QUANTUMNIQUE PLACEMENT ENGINE
 
+
+
+
+QUANTUMNIQUE PLACEMENT ENGINE
+DAY 4 – FULL TRAINING PLAN (TOUGHER LEVEL)
+===========================================
+
+BLOCK 1 – APTITUDE (Time & Work – Moderate)
+
+Question 1
+A can complete a work in 10 days and B in 15 days. How long will they take together?
+
+Question 2
+A, B and C can complete a work in 6, 8 and 12 days respectively.
+How many days will they take working together?
+
+Question 3
+A alone can do a work in 12 days. After 4 days, B joins and completes remaining work in 4 days.
+Find time taken by B alone.
+
+Question 4
+If 5 workers can complete a work in 8 days, how many workers are required to complete it in 4 days?
+
+Question 5
+A pipe fills a tank in 6 hours and another empties it in 8 hours.
+How long to fill the tank?
+
+===========================================
+BLOCK 2 – VERBAL ABILITY (Advanced)
+
+Reading Passage
+
+Efficient algorithms and optimized systems are critical in large-scale applications.
+Companies like Amazon and Google rely heavily on scalable architectures.
+
+Questions
+
+1. Why are optimized systems important?
+2. What does scalability mean in real-world applications?
+3. Name companies that depend on scalable systems.
+
+Grammar Correction
+
+1. He didn’t knew the answer.
+2. She is more smarter than him.
+3. They has completed the task.
+
+===========================================
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain a technical concept (e.g., Arrays / DBMS / OS)
+
+Include:
+- Definition
+- Real-world example
+- Use case
+
+===========================================
+BLOCK 4 – PROBLEM SOLVING (Logic)
+
+Find duplicates in array
+
+Input:
+[1,2,3,4,2,5,6,3]
+
+Output:
+[2,3]
+
+Follow-up:
+Solve in O(n) time.
+
+===========================================
+BLOCK 5 – DATA STRUCTURES & ALGORITHMS (Medium)
+
+Topic: Sliding Window
+
+Problem – Longest Substring Without Repeating Characters
+
+Input:
+"abcabcbb"
+
+Output:
+3
+
+Explanation:
+"abc" is the longest substring.
+
+Python Solution
+
+def longestSubstring(s):
+    char_set = set()
+    left = 0
+    max_length = 0
+
+    for right in range(len(s)):
+        while s[right] in char_set:
+            char_set.remove(s[left])
+            left += 1
+        char_set.add(s[right])
+        max_length = max(max_length, right - left + 1)
+
+    return max_length
+
+Time Complexity: O(n)
+
+Practice Problem
+
+Find first non-repeating character in string
+
+===========================================
+BLOCK 6 – CORE CS CONCEPTS
+
+DBMS CONCEPT – INDEXING
+
+Indexing improves query performance by reducing search time.
+
+Types:
+- Primary Index
+- Secondary Index
+
+===========================================
+OPERATING SYSTEMS CONCEPT – MEMORY MANAGEMENT
+
+Memory management handles allocation and deallocation of memory.
+
+Concepts:
+- Paging
+- Segmentation
+- Virtual Memory
+
+===========================================
+NETWORKING CONCEPT – DNS
+
+DNS converts domain names into IP addresses.
+
+Example:
+google.com → IP address
+
+===========================================
+CORE COMPUTER SCIENCE CONCEPT – HASHING
+
+Hashing maps data to fixed-size values.
+
+Used in:
+- HashMaps
+- Caching
+- Databases
+
+===========================================
+INTERVIEW QUESTION OF THE DAY
+
+What is indexing in DBMS and why is it used?
+
+Answer:
+Indexing improves search performance by allowing faster data retrieval.
+
+===========================================
+END OF DAY 4 – QUANTUMNIQUE PLACEMENT ENGINE
+
+
