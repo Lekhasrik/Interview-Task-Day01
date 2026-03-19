@@ -1,0 +1,15 @@
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain a technical concept (e.g., Arrays / DBMS / OS)
+
+ans:
+
+DBMS
+   Database Management System (DBMS) is software used to store, manage, and retrieve data efficiently.
+   real world example are in college Student details (name, ID, marks), all stored in Database.
+   it uses in Banking System, E-commerce, Social media.
+   it reduce redundancy, provides security and it will retrive data fast.
+
+   
