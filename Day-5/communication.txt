@@ -1,0 +1,18 @@
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain a recent technical topic you learned
+
+Include:
+- Concept explanation
+- Example
+- Real-world use
+
+
+Today I want to talk about Spring Boot, which I learned recently.
+Spring Boot is a Java framework used to build web applications easily and quickly. It reduces a lot of setup work, so developers can focus on writing code.
+For example, we can create a simple REST API using Spring Boot. By using annotations like @RestController and @GetMapping, we can build APIs in very few lines of code. 
+It also has a built-in server, so we don’t need to install anything separately.
+In real life, Spring Boot is used to build backend systems like e-commerce websites, banking apps, and microservices. It is popular because it is fast, easy to use, and saves time.
+Overall, Spring Boot makes development simple and efficient.

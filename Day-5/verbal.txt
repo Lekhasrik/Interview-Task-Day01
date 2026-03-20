@@ -1,0 +1,30 @@
+BLOCK 2 – VERBAL ABILITY (Advanced)
+
+Reading Passage
+
+Algorithms play a crucial role in optimizing system performance.
+Efficient algorithms reduce execution time and resource consumption.
+
+Questions
+
+1. Why are algorithms important?
+Ans : it is importantto optimaize a code.
+
+2. What happens if inefficient algorithms are used?
+ans: It will take more number of execution time.
+
+3. What is optimization in computing?
+ans: To make run code faster and nore efficient.
+
+ 
+
+Grammar Correction
+
+1. He have been working here since 2 years.
+ans : He has been working here since 2 years.
+
+2. She did not wrote the code.
+ans: She did not write the code.
+
+3. They is preparing for interviews.
+ans : they are preparing for interviews.
