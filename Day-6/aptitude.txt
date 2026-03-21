@@ -1,0 +1,50 @@
+BLOCK 1 – APTITUDE (Permutation & Combination)
+
+Question 1
+In how many ways can 3 students be selected from 7 students?
+
+sol:
+Combination because how many ways..
+
+formula : nCr = n! / r!(n-r)!
+7C3 = 7! / 3!(7-3)!
+    = 7! / 3! * 4!
+    = 35
+
+Question 2
+How many 2-digit numbers can be formed using digits 1, 2, 3, 4 without repetition?
+
+sol:
+1st digit = 1,2,3,4
+          =4
+2nd digit = 2,3,4
+          =3
+          =4*3
+          =12
+
+Question 3
+In how many ways can a captain and vice-captain be chosen from 6 players?
+
+sol:
+captain = 6ways
+vice-captain = 5ways
+     = 6*5
+     =30
+
+Question 4
+How many different arrangements can be made using the letters of the word MATH?
+
+sol:
+MATH = 4!
+     = 24
+
+Question 5
+A committee of 4 members is to be formed from 8 people. In how many ways can it be formed?
+sol:
+
+nCr = n! / r!(n-r)!
+    = 8! / 4!(8-4)!
+    =8! / 4! * 4!
+    =14*2
+    =70
+    
