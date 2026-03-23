@@ -1143,4 +1143,127 @@ Durability ensures committed data is permanent.
 END OF DAY 6 – QUANTUMNIQUE PLACEMENT ENGINE
 
 
+QUANTUMNIQUE PLACEMENT ENGINE
+DAY 7 – FULL TRAINING PLAN (INTERVIEW FOCUSED)
+===========================================
+
+BLOCK 1 – APTITUDE (Probability)
+
+Question 1
+What is the probability of getting a head when tossing a coin?
+
+Question 2
+What is the probability of getting a number greater than 4 when rolling a dice?
+
+Question 3
+A bag contains 3 red balls and 2 blue balls.
+Find probability of picking a red ball.
+
+Question 4
+If two coins are tossed, what is probability of getting two heads?
+
+Question 5
+Probability of selecting a vowel from the word ENGINEER.
+
+===========================================
+BLOCK 2 – VERBAL ABILITY (Advanced)
+
+Reading Passage
+
+Operating systems manage hardware resources and provide services for computer programs.
+Efficient OS design ensures better performance, memory management, and process scheduling.
+
+Questions
+
+1. What is the main role of an operating system?
+2. Why is memory management important?
+3. What is process scheduling?
+
+Grammar Correction
+
+1. He don’t know operating systems.
+2. She were learning data structures.
+3. They has solved the problem.
+
+===========================================
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain how the Internet works
+
+Include:
+- What happens when you type a URL
+- DNS
+- Server
+- Response
+
+===========================================
+BLOCK 4 – PROBLEM SOLVING (Intermediate)
+
+Move all zeros to end of array
+
+Input:
+[0,1,0,3,12]
+
+Output:
+[1,3,12,0,0]
+
+Solve in O(n) time without extra array.
+
+===========================================
+BLOCK 5 – DATA STRUCTURES & ALGORITHMS
+
+Topic: Linked List Basics
+
+Problem – Reverse a Linked List
+
+Example:
+1 -> 2 -> 3 -> 4 -> 5
+Output:
+5 -> 4 -> 3 -> 2 -> 1
+
+Time Complexity: O(n)
+
+Practice Problem
+
+Find middle of linked list
+
+===========================================
+BLOCK 6 – CORE CS CONCEPTS
+
+DBMS CONCEPT – TRANSACTIONS
+
+A transaction is a sequence of database operations treated as a single unit.
+
+===========================================
+OPERATING SYSTEMS CONCEPT – DEADLOCK PREVENTION
+
+Deadlock prevention ensures at least one of the deadlock conditions never occurs.
+
+===========================================
+NETWORKING CONCEPT – TCP 3-WAY HANDSHAKE
+
+Steps:
+1. SYN
+2. SYN-ACK
+3. ACK
+
+===========================================
+CORE COMPUTER SCIENCE CONCEPT – TREE
+
+Tree is a hierarchical data structure.
+
+===========================================
+INTERVIEW QUESTION OF THE DAY
+
+What is the difference between stack and queue?
+
+Stack uses LIFO.
+Queue uses FIFO.
+
+===========================================
+END OF DAY 7 – QUANTUMNIQUE PLACEMENT ENGINE
+
+
 
