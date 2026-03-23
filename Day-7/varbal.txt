@@ -1,0 +1,28 @@
+BLOCK 2 – VERBAL ABILITY (Advanced)
+
+Reading Passage
+
+Operating systems manage hardware resources and provide services for computer programs.
+Efficient OS design ensures better performance, memory management, and process scheduling.
+
+Questions
+
+1. What is the main role of an operating system?
+Ans:It controls the computer hardware and helps programs to run.
+
+2. Why is memory management important?
+Ans:It uses memory properly and helps many programs run smoothly.
+
+3. What is process scheduling?
+Ans:It decides which program should use the CPU first.
+
+Grammar Correction
+
+1. He don’t know operating systems.
+Answer: He doesn't know operating systems.
+
+2. She were learning data structures.
+Answer: She was learning data structures.
+
+3. They has solved the problem.
+Answer: They have solved the problem.

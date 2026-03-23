@@ -1,0 +1,21 @@
+
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain how the Internet works
+
+Include:
+- What happens when you type a URL
+- DNS
+- Server
+- Response
+
+
+   The Internet works by connecting computers and allowing them to communicate with each other.
+When we type a URL in a browser, the browser first needs to find the IP address of that website. 
+So it contacts the DNS, which acts like a directory and converts the domain name into an IP address.
+After getting the IP address, the browser sends a request to the server where the website is stored. 
+This request is usually sent using HTTP or HTTPS.
+The server receives the request, processes it, and sends back a response. This response contains the website data like HTML, CSS, and images.
+Finally, the browser takes this data and displays the webpage on the screen.
