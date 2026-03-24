@@ -1266,4 +1266,138 @@ Queue uses FIFO.
 END OF DAY 7 – QUANTUMNIQUE PLACEMENT ENGINE
 
 
+QUANTUMNIQUE PLACEMENT ENGINE
+DAY 8 – FULL TRAINING PLAN (INTERVIEW FOCUSED)
+===========================================
+
+BLOCK 1 – APTITUDE (Mixtures & Averages)
+
+Question 1
+The average of 5 numbers is 20. Find the total sum.
+
+Question 2
+The average of 10 numbers is 15. If one number is removed, the average becomes 14. Find the removed number.
+
+Question 3
+A container has milk and water in ratio 3:2. If 10 liters of water is added, ratio becomes 3:4. Find initial quantity.
+
+Question 4
+Find average of first 20 natural numbers.
+
+Question 5
+The average age of 5 students is 18. A new student joins and average becomes 19. Find age of new student.
+
+===========================================
+BLOCK 2 – VERBAL ABILITY
+
+Reading Passage
+
+Data structures help organize and store data efficiently so that operations
+like searching, inserting, and deleting can be performed quickly.
+Choosing the correct data structure improves performance significantly.
+
+Questions
+
+1. Why are data structures important?
+2. Name some operations performed on data.
+3. How does choosing the right data structure help performance?
+
+Grammar Correction
+
+1. He don’t understand data structures.
+2. She have completed the assignment.
+3. They was working on the project.
+
+===========================================
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain your favorite programming language
+
+Include:
+- Why you like it
+- Where it is used
+- Features
+- Example project
+
+===========================================
+BLOCK 4 – PROBLEM SOLVING
+
+Find the intersection of two arrays
+
+Input:
+arr1 = [1,2,3,4,5]
+arr2 = [3,4,5,6,7]
+
+Output:
+[3,4,5]
+
+===========================================
+BLOCK 5 – DATA STRUCTURES & ALGORITHMS
+
+Topic: Sorting
+
+Problem – Bubble Sort
+
+Sort the array:
+[5,2,9,1,5,6]
+
+Python Logic
+
+def bubbleSort(arr):
+    n = len(arr)
+    for i in range(n):
+        for j in range(0, n-i-1):
+            if arr[j] > arr[j+1]:
+                arr[j], arr[j+1] = arr[j+1], arr[j]
+
+Time Complexity: O(n^2)
+
+Practice Problem
+
+Implement Selection Sort
+
+===========================================
+BLOCK 6 – CORE CS CONCEPTS
+
+DBMS CONCEPT – VIEWS
+
+A view is a virtual table based on SQL query result.
+
+===========================================
+OPERATING SYSTEMS CONCEPT – MULTITHREADING
+
+Multithreading allows multiple threads to execute within a process simultaneously.
+
+===========================================
+NETWORKING CONCEPT – FIREWALL
+
+Firewall is a security system that monitors and controls incoming and outgoing network traffic.
+
+===========================================
+CORE COMPUTER SCIENCE CONCEPT – GRAPH
+
+Graph consists of vertices (nodes) and edges.
+
+Types:
+- Directed
+- Undirected
+- Weighted
+
+===========================================
+INTERVIEW QUESTION OF THE DAY
+
+What is the difference between process and thread?
+
+Process:
+Separate memory, heavy
+
+Thread:
+Shared memory, lightweight
+
+===========================================
+END OF DAY 8 – QUANTUMNIQUE PLACEMENT ENGINE
+
+
 
