@@ -1,0 +1,22 @@
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain your favorite programming language
+
+Include:
+- Why you like it
+- Where it is used
+- Features
+- Example project
+
+
+Hii all,
+My favorite programming language is Java. I like Java because it is simple, powerful, and widely used.
+Java is used in web development, backend systems, and enterprise applications. 
+One of its main features is platform independence, which means we can run the same code on different systems.
+Java is also object-oriented and secure, which makes it reliable.
+As an example, I have developed a hospital management system called PulseCare using Java and Spring Boot. 
+In this project, we can manage patient details, appointments, and records.
+Java is easy to learn and very useful, so it is my favorite programming language.
+Thank you.

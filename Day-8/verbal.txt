@@ -1,0 +1,30 @@
+BLOCK 2 – VERBAL ABILITY
+
+Reading Passage
+
+Data structures help organize and store data efficiently so that operations
+like searching, inserting, and deleting can be performed quickly.
+Choosing the correct data structure improves performance significantly.
+
+Questions
+
+1. Why are data structures important?
+ans: it can organize and store data efficiently.
+
+2. Name some operations performed on data.
+ans: searching, insertion, detelting.
+
+3. How does choosing the right data structure help performance?
+ans: it improves performance, by making operations faster.
+
+Grammar Correction
+
+1. He don’t understand data structures.
+ans: He doesn't understand data structures.
+
+2. She have completed the assignment.
+ans: she has completed the assignment.
+
+3. They was working on the project.
+ans:they were working on the project.
+
