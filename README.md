@@ -1400,4 +1400,146 @@ Shared memory, lightweight
 END OF DAY 8 – QUANTUMNIQUE PLACEMENT ENGINE
 
 
+QUANTUMNIQUE PLACEMENT ENGINE
+DAY 9 – FULL TRAINING PLAN (INTERVIEW FOCUSED)
+===========================================
+
+BLOCK 1 – APTITUDE (Time & Work)
+
+Question 1
+A can complete a work in 10 days and B in 15 days.
+How many days will they take together?
+
+Question 2
+A alone can do a work in 12 days.
+After working for 4 days, B joins and work finishes in 4 more days.
+Find B's efficiency.
+
+Question 3
+If 5 people can complete a work in 20 days,
+how many people are needed to complete the work in 10 days?
+
+Question 4
+A is twice as efficient as B.
+If B takes 12 days to complete work, how many days will A take?
+
+Question 5
+Pipe A fills a tank in 6 hours and Pipe B fills in 8 hours.
+How long will both take together?
+
+===========================================
+BLOCK 2 – VERBAL ABILITY
+
+Reading Passage
+
+Algorithms are step-by-step procedures used to solve problems efficiently.
+Good algorithms reduce time complexity and memory usage.
+Efficient algorithms are very important in software development.
+
+Questions
+
+1. What is an algorithm?
+2. Why are efficient algorithms important?
+3. What do algorithms help reduce?
+
+Grammar Correction
+
+1. She don’t like programming.
+2. He have written the code.
+3. They is working on algorithms.
+
+===========================================
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain what happens when you run a program
+
+Include:
+- Compilation / Interpretation
+- Memory allocation
+- Execution
+- Output
+
+===========================================
+BLOCK 4 – PROBLEM SOLVING
+
+Find the second largest number in an array
+
+Input:
+[10, 5, 20, 8, 15]
+
+Output:
+15
+
+Constraint: Do not sort the array.
+
+===========================================
+BLOCK 5 – DATA STRUCTURES & ALGORITHMS
+
+Topic: Recursion
+
+Problem – Factorial using recursion
+
+def factorial(n):
+    if n == 0:
+        return 1
+    return n * factorial(n-1)
+
+Practice Problem
+
+Fibonacci using recursion
+
+===========================================
+BLOCK 6 – CORE CS CONCEPTS
+
+DBMS CONCEPT – NORMALIZATION
+
+Normalization is used to remove redundancy and improve database design.
+
+Normal Forms:
+1NF
+2NF
+3NF
+
+===========================================
+OPERATING SYSTEMS CONCEPT – CPU SCHEDULING
+
+Types:
+- FCFS
+- SJF
+- Round Robin
+- Priority Scheduling
+
+===========================================
+NETWORKING CONCEPT – HTTP vs HTTPS
+
+HTTP:
+Not secure
+
+HTTPS:
+Secure using SSL/TLS
+
+===========================================
+CORE COMPUTER SCIENCE CONCEPT – BINARY TREE
+
+Binary Tree:
+Each node has at most two children.
+
+Types:
+- Full Binary Tree
+- Complete Binary Tree
+- Perfect Binary Tree
+
+===========================================
+INTERVIEW QUESTION OF THE DAY
+
+What is time complexity?
+
+Time complexity measures how execution time increases with input size.
+
+===========================================
+END OF DAY 9 – QUANTUMNIQUE PLACEMENT ENGINE
+
+
 
