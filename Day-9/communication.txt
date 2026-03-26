@@ -1,0 +1,15 @@
+BLOCK 3 – COMMUNICATION PRACTICE 
+Speak for 3 minutes on: 
+Explain what happens when you run a program 
+Include: 
+- Compilation / Interpretation 
+- Memory allocation 
+- Execution 
+- Output
+
+
+When we run a program, first the code is checked and converted into machine language using a compiler or interpreter, so the computer can understand it properly. 
+If there are any errors, they are shown at this stage. After that, the system allocates memory in RAM to store the program instructions, variables, and data needed for execution.
+Next, the CPU starts executing the program step by step, following the instructions written by the programmer. During execution, the program can take input from the user, 
+perform calculations, make decisions using conditions, and update values in memory. The CPU continuously processes these instructions until the program finishes.
+Finally, the program generates the output, which is displayed to the user through devices like a monitor. Once execution is complete, the memory used by the program is released by the system.
