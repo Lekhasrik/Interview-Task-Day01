@@ -1,0 +1,23 @@
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain Binary Search algorithm
+
+Include:
+- Sorted array
+- Middle element
+- Divide search space
+- Time complexity
+
+ans:
+
+    -Binary Search only works on a Sorted array. If the list is random, this method won't work.
+    -Instead of checking every number one by one, we look at the Middle element of the array first.
+        -If the middle matches our target, we are done.
+        -If our target is larger, we ignore the left side.
+        -If our target is smaller, we ignore the right side.
+    -By checking the middle, we Divide the search space in half at every single step. We keep repeating this half-cut process until we find the target. 
+    This makes the search fast.
+    -the Time complexity is O(log n) bcoz we cut in half every time.
+
