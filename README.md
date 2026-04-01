@@ -1542,4 +1542,132 @@ Time complexity measures how execution time increases with input size.
 END OF DAY 9 – QUANTUMNIQUE PLACEMENT ENGINE
 
 
+QUANTUMNIQUE PLACEMENT ENGINE
+DAY 10 – FULL TRAINING PLAN (INTERVIEW FOCUSED)
+===========================================
+
+BLOCK 1 – APTITUDE (Speed, Time & Distance)
+
+Question 1
+A car travels 60 km in 1 hour. What is the speed?
+
+Question 2
+A train travels at 50 km/hr. How long will it take to travel 150 km?
+
+Question 3
+If a person walks at 5 km/hr, how far will they walk in 3 hours?
+
+Question 4
+Two trains move in opposite direction at 40 km/hr and 60 km/hr.
+Find relative speed.
+
+Question 5
+A car travels first half distance at 40 km/hr and second half at 60 km/hr.
+Find average speed.
+
+===========================================
+BLOCK 2 – VERBAL ABILITY
+
+Reading Passage
+
+Binary search is an efficient searching algorithm that works on sorted arrays.
+It repeatedly divides the search interval into half and reduces the search space.
+
+Questions
+
+1. Where does binary search work?
+2. How does binary search reduce search space?
+3. Is binary search faster than linear search?
+
+Grammar Correction
+
+1. He don’t know binary search.
+2. She have completed the task.
+3. They is learning algorithms.
+
+===========================================
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain Binary Search algorithm
+
+Include:
+- Sorted array
+- Middle element
+- Divide search space
+- Time complexity
+
+===========================================
+BLOCK 4 – PROBLEM SOLVING
+
+Binary Search Implementation
+
+Find element 25 in sorted array:
+[5,10,15,20,25,30,35]
+
+Return index.
+
+===========================================
+BLOCK 5 – DATA STRUCTURES & ALGORITHMS
+
+Topic: Merge Sort
+
+Merge Sort Steps:
+1. Divide array into halves
+2. Sort each half
+3. Merge sorted halves
+
+Time Complexity: O(n log n)
+
+Practice Problem:
+Implement Quick Sort
+
+===========================================
+BLOCK 6 – CORE CS CONCEPTS
+
+DBMS CONCEPT – SQL JOINS
+
+Types:
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- FULL JOIN
+
+===========================================
+OPERATING SYSTEMS CONCEPT – DEADLOCK CONDITIONS
+
+4 Deadlock Conditions:
+1. Mutual Exclusion
+2. Hold and Wait
+3. No Preemption
+4. Circular Wait
+
+===========================================
+NETWORKING CONCEPT – DNS
+
+DNS converts domain names into IP addresses.
+
+===========================================
+CORE COMPUTER SCIENCE CONCEPT – TREE TRAVERSAL
+
+Types:
+- Inorder
+- Preorder
+- Postorder
+- Level Order
+
+===========================================
+INTERVIEW QUESTION OF THE DAY
+
+Difference between Linear Search and Binary Search?
+
+Linear Search:
+Searches entire list
+
+Binary Search:
+Works on sorted list, divides search space
+
+===========================================
+END OF DAY 10 – QUANTUMNIQUE PLACEMENT ENGINE
 
